@@ -1,0 +1,57 @@
+Dot Product of Vector 0 & 1 is -3.0
+Dot Product of Vector 0 & 2 is 7.0
+Dot Product of Vector 0 & 3 is 23.0
+Dot Product of Vector 0 & 4 is -1.0	
+Dot Product of Vector 0 & 5 is 13.0
+Dot Product of Vector 0 & 6 is 21.0
+Dot Product of Vector 0 & 7 is 1.0	
+Dot Product of Vector 0 & 8 is 25.0
+Dot Product of Vector 0 & 9 is 21.0
+Dot Product of Vector 1 & 2 is 13.0
+Dot Product of Vector 1 & 3 is 1.0	
+Dot Product of Vector 1 & 4 is -7.0
+Dot Product of Vector 1 & 5 is 3.0
+Dot Product of Vector 1 & 6 is -1.0	
+Dot Product of Vector 1 & 7 is 3.0
+Dot Product of Vector 1 & 8 is -1.0	
+Dot Product of Vector 1 & 9 is 3.0
+Dot Product of Vector 2 & 3 is 15.0
+Dot Product of Vector 2 & 4 is -9.0
+Dot Product of Vector 2 & 5 is 9.0
+Dot Product of Vector 2 & 6 is 5.0
+Dot Product of Vector 2 & 7 is 13.0
+Dot Product of Vector 2 & 8 is 9.0
+Dot Product of Vector 2 & 9 is 13.0
+Dot Product of Vector 3 & 4 is -5.0
+Dot Product of Vector 3 & 5 is 17.0
+Dot Product of Vector 3 & 6 is 21.0
+Dot Product of Vector 3 & 7 is 9.0
+Dot Product of Vector 3 & 8 is 29.0
+Dot Product of Vector 3 & 9 is 25.0
+Dot Product of Vector 4 & 5 is -11.0
+Dot Product of Vector 4 & 6 is -7.0
+Dot Product of Vector 4 & 7 is -3.0
+Dot Product of Vector 4 & 8 is -3.0
+Dot Product of Vector 4 & 9 is -3.0
+Dot Product of Vector 5 & 6 is 27.0
+Dot Product of Vector 5 & 7 is 7.0
+Dot Product of Vector 5 & 8 is 19.0
+Dot Product of Vector 5 & 9 is 23.0
+Dot Product of Vector 6 & 7 is 3.0
+Dot Product of Vector 6 & 8 is 27.0
+Dot Product of Vector 6 & 9 is 19.0
+Dot Product of Vector 7 & 8 is 3.0
+Dot Product of Vector 7 & 9 is 3.0
+Dot Product of Vector 8 & 9 is 27.0
+Nearly Orthogonal[-1,1] : 5
+Nearly Orthogonal[-2,2] : 5
+Nearly Orthogonal[-3,3] : 15
+Nearly Orthogonal[-4,4] : 15
+Nearly Orthogonal[-5,5] : 17
+Nearly Orthogonal[-6,6] : 17
+Nearly Orthogonal[-7,7] : 21
+Nearly Orthogonal[-8,8] : 21
+Nearly Orthogonal[-9,9] : 25
+Nearly Orthogonal[-10,10] : 25
+Nearly Orthogonal[-11,11] : 26
+Picked up _JAVA_OPTIONS: -Xmx512M -Xms512M

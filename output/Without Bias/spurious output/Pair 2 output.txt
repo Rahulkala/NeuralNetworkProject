@@ -1,0 +1,21 @@
+Noise at position: 4
+Err Ip Output
+#### 	#### 
+#    	#    
+#    	#    
+#### 	#### 
+    #	    #
+    #	    #
+#### 	#### 
+Classified
+
+Noise at position: 26
+Err Ip Output
+ ### 	 ### 
+#   #	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+     	     
+#####	#####
+Classified

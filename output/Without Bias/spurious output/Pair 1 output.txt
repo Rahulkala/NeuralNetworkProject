@@ -1,0 +1,57 @@
+Noise at position: 27
+
+Err Ip Output
+ ### 	 ### 
+#   #	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ ##  	 ##  
+#####	#####
+Classified
+
+Noise at position: 17
+
+Err Ip Output
+ ### 	 ### 
+#   #	#   #
+#   #	#   #
+# # #	# # #
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified
+
+Noise at position: 13
+Err Ip Output
+  #  	  #  
+ ##  	 ##  
+# ## 	# ## 
+  #  	  #  
+  #  	  #  
+  #  	  #  
+#####	#####
+Classified
+
+Noise at position: 26
+Err Ip Output
+ ### 	 ### 
+#   #	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+     	     
+#####	#####
+Classified
+
+Noise at position: 16, 4
+
+Err Ip Output
+ ####	 ####
+#   #	#   #
+#   #	#   #
+##  #	##  #
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified

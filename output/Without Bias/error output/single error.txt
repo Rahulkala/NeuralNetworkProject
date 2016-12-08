@@ -1,0 +1,1240 @@
+Random At: 11, 
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+##  #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 0
+
+Err Ip	Err Op
+  #  	  #  
+ ##  	 ##  
+###  	# #  
+  #  	  #  
+  #  	  #  
+  #  	  #  
+#####	#####
+Classified to: 1
+
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+ # # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Err Op
+    #	    #
+   ##	   ##
+ ## #	 ## #
+ #  #	 #  #
+#####	#####
+    #	   ##
+    #	    #
+WRONG CLASSIFICATION
+
+Err Ip	Err Op
+ ####	 ####
+#    	#    
+##   	#    
+#### 	#### 
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 6
+
+Err Ip	Err Op
+#####	#####
+    #	    #
+ # # 	   # 
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 5
+
+Random At: 28, 
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#  ##	#   #
+ ### 	 ### 
+Classified to: 0
+
+Err Ip	Err Op
+  #  	  #  
+ ##  	 ##  
+# #  	# #  
+  #  	  #  
+  #  	  #  
+  ## 	  #  
+#####	#####
+Classified to: 1
+
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ # # 	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Err Op
+    #	    #
+   ##	   ##
+  # #	 ## #
+ #  #	 #  #
+#####	#####
+   ##	   ##
+    #	    #
+WRONG CLASSIFICATION
+
+Err Ip	Err Op
+ ####	 ####
+#    	#    
+#    	#    
+#### 	#### 
+#   #	#   #
+#  ##	#   #
+ ### 	 ### 
+Classified to: 6
+
+Err Ip	Err Op
+#####	#####
+    #	    #
+   # 	   # 
+   # 	   # 
+  #  	  #  
+  ## 	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 5
+
+Random At: 19, 
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+#   #	#    
+#    	#    
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Err Op
+  #  	  #  
+ ##  	 ##  
+# #  	# #  
+  # #	  #  
+  #  	  #  
+  #  	  #  
+#####	#####
+Classified to: 1
+
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+   # 	   # 
+  # #	  #  
+  #  	  #  
+ #   	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Err Op
+    #	    #
+   ##	   ##
+  # #	  # #
+ #   	 #  #
+#####	#####
+    #	    #
+    #	    #
+Classified to: 4
+
+Err Ip	Err Op
+ ####	 ####
+#    	#    
+#    	#    
+#####	#### 
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 6
+
+Err Ip	Err Op
+#####	#####
+    #	    #
+   # 	   # 
+   ##	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 5
+
+Random At: 2, 
+Err Ip	Err Op
+ # # 	 ### 
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 0
+
+Err Ip	Err Op
+     	  #  
+ ##  	 ##  
+# #  	# #  
+  #  	  #  
+  #  	  #  
+  #  	  #  
+#####	#####
+Classified to: 1
+
+Err Ip	Err Op
+ # # 	 ### 
+#   #	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Err Op
+  # #	    #
+   ##	   ##
+  # #	  # #
+ #  #	 #  #
+#####	#####
+    #	    #
+    #	    #
+Classified to: 4
+
+Err Ip	Err Op
+ # ##	 ####
+#    	#    
+#    	#    
+#### 	#### 
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 6
+
+Err Ip	Err Op
+## ##	#####
+    #	    #
+   # 	   # 
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 6
+
+Random At: 5, 
+Err Ip	Err Op
+ ### 	 ### 
+    #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 0
+
+Err Ip	Err Op
+  #  	  #  
+###  	 ##  
+# #  	# #  
+  #  	  #  
+  #  	  #  
+  #  	  #  
+#####	#####
+Classified to: 1
+
+Err Ip	Err Op
+ ### 	 ### 
+    #	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Err Op
+    #	    #
+#  ##	   ##
+  # #	  # #
+ #  #	 #  #
+#####	#####
+    #	    #
+    #	    #
+Classified to: 4
+
+Err Ip	Err Op
+ ####	 ####
+     	#    
+#    	#    
+#### 	#### 
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 6
+
+Err Ip	Err Op
+#####	#####
+#   #	    #
+   # 	   # 
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 6
+
+Random At: 25, 
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+    #	#   #
+ ### 	 ### 
+Classified to: 0
+
+Err Ip	Err Op
+  #  	  #  
+ ##  	 ##  
+# #  	# #  
+  #  	  #  
+  #  	  #  
+# #  	  #  
+#####	#####
+Classified to: 1
+
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+##   	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Err Op
+    #	    #
+   ##	   ##
+  # #	  # #
+ #  #	 #  #
+#####	#####
+#   #	    #
+    #	    #
+Classified to: 4
+
+Err Ip	Err Op
+ ####	 ####
+#    	#    
+#    	#    
+#### 	# ## 
+#   #	#   #
+    #	#   #
+ ### 	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Err Op
+#####	#####
+    #	    #
+   # 	   # 
+   # 	   # 
+  #  	  #  
+# #  	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 5
+
+Random At: 4, 
+Err Ip	Err Op
+ ####	 ### 
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 0
+
+Err Ip	Err Op
+  # #	  #  
+ ##  	 ##  
+# #  	# #  
+  #  	  #  
+  #  	  #  
+  #  	  #  
+#####	#####
+Classified to: 1
+
+Err Ip	Err Op
+ ####	 ### 
+#   #	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Err Op
+     	    #
+   ##	   ##
+  # #	  # #
+ #  #	 #  #
+#####	#####
+    #	    #
+    #	    #
+Classified to: 4
+
+Err Ip	Err Op
+ ### 	 ### 
+#    	#    
+#    	#    
+#### 	# ## 
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Err Op
+#### 	#####
+    #	    #
+   # 	   # 
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 5
+
+Random At: 2, 
+Err Ip	Err Op
+ # # 	 ### 
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 0
+
+Err Ip	Err Op
+     	  #  
+ ##  	 ##  
+# #  	# #  
+  #  	  #  
+  #  	  #  
+  #  	  #  
+#####	#####
+Classified to: 1
+
+Err Ip	Err Op
+ # # 	 ### 
+#   #	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Err Op
+  # #	    #
+   ##	   ##
+  # #	  # #
+ #  #	 #  #
+#####	#####
+    #	    #
+    #	    #
+Classified to: 4
+
+Err Ip	Err Op
+ # ##	 ####
+#    	#    
+#    	#    
+#### 	#### 
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 6
+
+Err Ip	Err Op
+## ##	#####
+    #	    #
+   # 	   # 
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 6
+
+Random At: 33, 
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+ ##  	 ### 
+Classified to: 0
+
+Err Ip	Err Op
+  #  	  #  
+ ##  	 ##  
+# #  	# #  
+  #  	  #  
+  #  	  #  
+  #  	  #  
+### #	#####
+Classified to: 1
+
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+### #	#####
+Classified to: 2
+
+Err Ip	Err Op
+    #	    #
+   ##	   ##
+  # #	  # #
+ #  #	 #  #
+#####	#####
+    #	    #
+   ##	    #
+Classified to: 4
+
+Err Ip	Err Op
+ ####	 ####
+#    	#    
+#    	#    
+#### 	#### 
+#   #	#   #
+#   #	#   #
+ ##  	 ### 
+Classified to: 6
+
+Err Ip	Err Op
+#####	#####
+    #	    #
+   # 	   # 
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ # # 	 ### 
+WRONG CLASSIFICATION
+Total Classified: 5
+
+Random At: 18, 
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+#   #	#   #
+#  ##	#   #
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 0
+
+Err Ip	Err Op
+  #  	  #  
+ ##  	 ##  
+# #  	# #  
+  ## 	  #  
+  #  	  #  
+  #  	  #  
+#####	#####
+Classified to: 1
+
+Err Ip	Err Op
+ ### 	 ### 
+#   #	#   #
+   # 	   # 
+  ## 	  #  
+  #  	  #  
+ #   	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Err Op
+    #	    #
+   ##	   ##
+  # #	  # #
+ # ##	 #  #
+#####	#####
+    #	    #
+    #	    #
+Classified to: 4
+
+Err Ip	Err Op
+ ####	 ### 
+#    	#    
+#    	#    
+###  	# ## 
+#   #	#   #
+#   #	#   #
+ ### 	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Err Op
+#####	#####
+    #	    #
+   # 	   # 
+     	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 5
+
+Picked up _JAVA_OPTIONS: -Xmx512M -Xms512M
+Random At: 1, 24, 5, 18, 16, 
+Err Ip	Output
+  ## 	 ### 
+    #	#   #
+#   #	#   #
+## ##	#   #
+#    	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 0
+
+Err Ip	Output
+ ##  	 ### 
+##  	 ##  
+# #  	#    
+ ## 	  #  
+  # 	  #  
+  #  	  #  
+#####	#####
+WRONG CLASSIFICATION
+
+Err Ip	Output
+ ## 	 ### 
+   #	#   #
+   # 	   # 
+ ## 	  #  
+  # #	  #  
+ #   	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Output
+ #  #	    #
+  ##	   ##
+  # #	  # #
+  ##	 #  #
+#### 	#####
+    #	    #
+    #	    #
+Classified to: 4
+
+Err Ip	Output
+ ###	 ### 
+     	#    
+#    	#    
+# #  	# ## 
+#   	#   #
+#   #	#   #
+ ### 	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Output
+####	#####
+#   #	    #
+   # 	   # 
+   	   # 
+  # 	  #  
+  #  	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 4
+
+Random At: 33, 0, 9, 3, 16, 
+Err Ip	Output
+## 	 ####
+#    	#   #
+#   #	#   #
+##  #	##  #
+#   #	#   #
+#   #	#   #
+ ##  	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Output
+ ## 	  #  
+ ## #	 ##  
+# #  	# ## 
+ ##  	  #  
+  #  	  #  
+  #  	  #  
+### #	#####
+WRONG CLASSIFICATION
+
+Err Ip	Output
+### 	 ### 
+#    	#   #
+   # 	   # 
+ #  	  #  
+  #  	  #  
+ #   	 ##  
+### #	#####
+WRONG CLASSIFICATION
+
+Err Ip	Output
+  #	    #
+   #	   ##
+  # #	  # #
+   #	 #  #
+#####	#####
+    #	    #
+   #	    #
+Classified to: 4
+
+Err Ip	Output
+## #	 ####
+#   #	#   #
+#    	#    
+### 	# ## 
+#   #	#   #
+#   #	#   #
+ ##  	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Output
+## #	#####
+     	    #
+   # 	   # 
+  # 	  ## 
+  #  	  #  
+  #  	  #  
+ #  	 #   
+WRONG CLASSIFICATION
+Total Classified: 1
+
+Random At: 8, 3, 34, 9, 6, 
+Err Ip	Output
+ ## 	 ### 
+##  	#   #
+#   #	#   #
+#   #	# # #
+#   #	#   #
+#   #	#   #
+ ###	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Output
+  ## 	 ### 
+  ###	 ##  
+# #  	#  # 
+  #  	  #  
+  #  	  #  
+  #  	  #  
+#### 	#####
+WRONG CLASSIFICATION
+
+Err Ip	Output
+ ## 	 ### 
+# 	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 #   
+####	#####
+Classified to: 2
+
+Err Ip	Output
+   #	    #
+  	   ##
+  # #	  # #
+ #  #	 #  #
+#####	#####
+    #	    #
+     	    #
+Classified to: 4
+
+Err Ip	Output
+ ###	 ####
+# #	#    
+#    	#    
+#### 	#### 
+#   #	#   #
+#   #	#   #
+ ###	 ### 
+Classified to: 6
+
+Err Ip	Output
+####	#####
+ #  	    #
+   # 	   # 
+   # 	  ## 
+  #  	  #  
+  #  	  #  
+ #  #	##   
+WRONG CLASSIFICATION
+Total Classified: 3
+
+Random At: 18, 22, 12, 6, 21, 
+Err Ip	Output
+ ### 	 ### 
+#  #	#   #
+# # #	#   #
+#  #	#   #
+# #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 0
+
+Err Ip	Output
+  #  	 ### 
+  #  	 ##  
+#    	#    
+  # 	  #  
+   	  #  
+  #  	  #  
+#####	#####
+WRONG CLASSIFICATION
+
+Err Ip	Output
+ ### 	 ### 
+#  #	#   #
+  # 	   # 
+  # 	  #  
+ #   	  #  
+ #   	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Output
+    #	    #
+ # ##	   ##
+    #	  # #
+ # ##	 #  #
+###	#####
+    #	    #
+    #	    #
+Classified to: 4
+
+Err Ip	Output
+ ####	 ####
+#   	#    
+#   	#    
+### 	#### 
+## #	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 6
+
+Err Ip	Output
+#####	#####
+   #	    #
+  # 	   # 
+     	   # 
+ #   	  #  
+  #  	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 5
+
+Random At: 15, 26, 4, 31, 2, 
+Err Ip	Output
+ ##	 ### 
+#   #	#   #
+#   #	#   #
+    #	#   #
+#   #	#   #
+#  #	#   #
+  ## 	 ### 
+Classified to: 0
+
+Err Ip	Output
+    	  #  
+ ##  	 ##  
+# #  	# #  
+# #  	  #  
+  #  	  #  
+ #  	  #  
+# ###	#####
+Classified to: 1
+
+Err Ip	Output
+ ##	 ### 
+#   #	#   #
+   # 	   # 
+# #  	  #  
+  #  	  #  
+    	 #   
+# ###	#####
+Classified to: 2
+
+Err Ip	Output
+  #  	    #
+   ##	   ##
+  # #	  # #
+#  #	 #  #
+#####	#####
+   #	    #
+ #  #	    #
+Classified to: 4
+
+Err Ip	Output
+ # # 	 ### 
+#    	#    
+#    	#    
+ ### 	#### 
+#   #	#   #
+##  #	#   #
+ ## 	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Output
+###	#####
+    #	    #
+   # 	   # 
+#  # 	   # 
+  #  	  #  
+ ##  	  #  
+    	 #   
+Classified to: 7
+Total Classified: 5
+
+Random At: 11, 8, 20, 24, 3, 
+Err Ip	Output
+ ## 	 ### 
+#  #	#   #
+#  #	#   #
+#   #	#   #
+    	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 0
+
+Err Ip	Output
+  # 	  #  
+ ### 	 ##  
+###  	# #  
+  #  	  #  
+ # 	  #  
+  #  	  #  
+#####	#####
+Classified to: 1
+
+Err Ip	Output
+ ## 	 ### 
+#  #	#   #
+  # 	   # 
+  #  	  #  
+ # 	  #  
+ #   	 #   
+#####	#####
+Classified to: 2
+
+Err Ip	Output
+   ##	    #
+   #	   ##
+ ## #	  # #
+ #  #	 #  #
+### 	#####
+    #	    #
+    #	    #
+Classified to: 4
+
+Err Ip	Output
+ ## #	 ####
+#  # 	#    
+##   	#    
+#### 	#### 
+    	#   #
+#   #	#   #
+ ### 	 ### 
+Classified to: 6
+
+Err Ip	Output
+####	#####
+   #	    #
+  # 	   # 
+   # 	   # 
+# # #	  #  
+  #  	  #  
+ #   	 #   
+Classified to: 7
+Total Classified: 6
+
+Random At: 6, 7, 34, 0, 1, 
+Err Ip	Output
+# ## 	 ### 
+# #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+ ####	 ### 
+Classified to: 0
+
+Err Ip	Output
+#  	 ### 
+     	 ##  
+# #  	#    
+  #  	  #  
+  #  	  #  
+  #  	  #  
+####	#####
+WRONG CLASSIFICATION
+
+Err Ip	Output
+## 	 ### 
+### #	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #   	 ##  
+####	#####
+WRONG CLASSIFICATION
+
+Err Ip	Output
+##  #	#   #
+ ###	   ##
+  # #	 ## #
+ #  #	 #  #
+#####	#####
+    #	   ##
+     	    #
+WRONG CLASSIFICATION
+
+Err Ip	Output
+###	 ### 
+##  	#    
+#    	#    
+#### 	#### 
+#   #	#   #
+#   #	#   #
+ ####	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Output
+  ###	#####
+  #	    #
+   # 	   # 
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #  #	##  #
+WRONG CLASSIFICATION
+Total Classified: 1
+
+Random At: 9, 30, 1, 4, 28, 
+Err Ip	Output
+ ###	 ### 
+#    	#   #
+#   #	#   #
+#   #	#   #
+#   #	#   #
+#  #	#   #
+### 	 ### 
+Classified to: 0
+
+Err Ip	Output
+ # 	  #  
+ ## #	 ##  
+# #  	# ## 
+  #  	  #  
+  #  	  #  
+  ## 	  #  
+####	#####
+WRONG CLASSIFICATION
+
+Err Ip	Output
+  ##	 ### 
+#   	#   #
+   # 	   # 
+  #  	  #  
+  #  	  #  
+ #  	 #   
+ ####	#####
+Classified to: 2
+
+Err Ip	Output
+ #  	    #
+   #	   ##
+  # #	 ## #
+ #  #	 #  #
+#####	#####
+   #	   ##
+#   #	    #
+WRONG CLASSIFICATION
+
+Err Ip	Output
+  ## 	 ### 
+#   	#    
+#    	#    
+#### 	# ## 
+#   #	#   #
+#  ##	#   #
+### 	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Output
+### 	#####
+     	    #
+   # 	   # 
+   # 	  ## 
+  #  	  #  
+  ## 	  #  
+#   	##   
+WRONG CLASSIFICATION
+Total Classified: 2
+
+Random At: 17, 20, 25, 13, 7, 
+Err Ip	Output
+ ### 	 ### 
+# # #	#   #
+#  #	#    
+#  #	# #  
+    #	#   #
+   #	#   #
+ ### 	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Output
+  #  	  #  
+ #   	 ##  
+# # 	# #  
+     	  #  
+ #  	  #  
+# #  	  #  
+#####	#####
+Classified to: 1
+
+Err Ip	Output
+ ### 	 ### 
+# # #	#   #
+     	#  # 
+     	  #  
+ #  	  #  
+##   	     
+#####	#####
+WRONG CLASSIFICATION
+
+Err Ip	Output
+    #	    #
+  ##	   ##
+  ###	 ## #
+ # #	 #  #
+ ####	#####
+#   #	   ##
+    #	    #
+WRONG CLASSIFICATION
+
+Err Ip	Output
+ ####	 ####
+# #  	#    
+#   	#    
+## # 	# ## 
+   #	#   #
+    #	#   #
+ ### 	 ### 
+WRONG CLASSIFICATION
+
+Err Ip	Output
+#####	#####
+   #	    #
+     	   # 
+  ## 	   # 
+ #  	  #  
+ #  	  #  
+ #   	 ### 
+WRONG CLASSIFICATION
+Total Classified: 1
+
+Random At: 26, 13, 3, 31, 10, 
+Err Ip	Output
+ ## 	 ### 
+#   #	#   #
+   #	#   #
+#   #	#   #
+#   #	#   #
+#  #	#   #
+  ## 	 ### 
+Classified to: 0
+
+Err Ip	Output
+  ## 	  #  
+ ##  	 ##  
+ ## 	# ## 
+  #  	  #  
+  #  	  #  
+ ##  	 ##  
+# ###	#####
+WRONG CLASSIFICATION
+
+Err Ip	Output
+ ##  	 ### 
+#   #	#   #
+    	#  # 
+  #  	  #  
+  #  	  #  
+     	     
+####	#####
+WRONG CLASSIFICATION
+
+Err Ip	Output
+   ##	    #
+   ##	   ##
+ ###	  # #
+ #  #	 #  #
+#####	#####
+ #  #	    #
+ #  #	    #
+Classified to: 4
+
+Err Ip	Output
+ ###	 ####
+#    	#    
+  # 	#    
+#### 	#### 
+#   #	#   #
+#  #	#   #
+ ## 	 ### 
+Classified to: 6
+
+Err Ip	Output
+### #	#####
+    #	    #
+#   	   # 
+   # 	   # 
+  #  	  #  
+ #  	  #  
+     	 #   
+Classified to: 7
+Total Classified: 4
