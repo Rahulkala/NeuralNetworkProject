@@ -1,4 +1,4 @@
-NEURAL NETWORK PROJECT
+<b>NEURAL NETWORK PROJECT</b>
 
 Java based Neural Network code to train Autoassociative Network using Hebb's Rule. The input is digits from 0 to 9 in a 5 X 7 matrix i.e., 35 pixels for each number. Therefore, the input pattern will be 10 X 35 and is in the input file named TenDigitPatterns.txt
 
